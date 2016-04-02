@@ -44,6 +44,9 @@ $(function() {
 		githubUserSettings: {
 			username: '16patsle',
 			repo: '16patsle.github.io'
+		},
+		githubSettings: {
+			branch: 'master'
 		}
 
 	});
