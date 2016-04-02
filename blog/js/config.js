@@ -46,7 +46,8 @@ $(function() {
 			repo: '16patsle.github.io'
 		},
 		githubSettings: {
-			branch: 'master'
+			branch: 'master',
+			host: 'https://api.github.com'
 		}
 
 	});
